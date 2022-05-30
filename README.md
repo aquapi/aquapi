@@ -34,3 +34,4 @@ I'm AquaPI, a self-taught developer with 2 years of experience, interested in ma
 
 ## Github status
 [![AquaPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquapi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquapi&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
