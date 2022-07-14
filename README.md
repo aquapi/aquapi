@@ -42,5 +42,5 @@ Language and tools I'm using:
 ## My projects
 These are projects I am working on:
 
-[![RAPI](https://github-readme-stats.vercel.app/api/pin/?username=aquapi&repo=jsonapi)](https://github.com/anuraghazra/github-readme-stats)
+[![RAPI](https://github-readme-stats.vercel.app/api/pin/?username=aquapi&repo=rapi)](https://github.com/anuraghazra/github-readme-stats)
 [![RAPI](https://github-readme-stats.vercel.app/api/pin/?username=aquapi&repo=dwc)](https://github.com/anuraghazra/github-readme-stats)
