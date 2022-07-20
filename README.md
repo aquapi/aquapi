@@ -32,6 +32,7 @@ Language and tools I'm using:
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![PXE.js](https://pxe.vercel.app/badge.svg)
 
 ## Github status
 [![AquaPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquapi)](https://github.com/anuraghazra/github-readme-stats)
