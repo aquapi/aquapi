@@ -35,11 +35,11 @@ Language and tools I'm using:
 ![PXE.js](https://pxe.vercel.app/badge.svg)
 
 ## Github status
-[![AquaPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquapi)](https://github.com/anuraghazra/github-readme-stats)
+[![AquaPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquapi&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquapi&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquapi&langs_count=10&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My projects
 These are projects I am working on:
 
-[![RAPI](https://github-readme-stats.vercel.app/api/pin/?username=aquapi&repo=dwc)](https://github.com/anuraghazra/github-readme-stats)
+[![RAPI](https://github-readme-stats.vercel.app/api/pin/?username=aquapi&repo=dwc&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
