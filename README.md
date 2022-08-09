@@ -39,7 +39,6 @@ Language and tools I'm using:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquapi&langs_count=10&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## My projects
-These are projects I am working on:
+## Support me 
 
-[![RAPI](https://github-readme-stats.vercel.app/api/pin/?username=aquapi&repo=dwc&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aquapi)
