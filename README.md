@@ -1,4 +1,5 @@
-## About
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aquapi)
+
 I'm AquaPI, a self-taught developer with 2 years of experience, interested in making web games and libraries. 
 
 ## Languages & Tools
@@ -35,10 +36,6 @@ Language and tools I'm using:
 ![PXE.js](https://pxe.vercel.app/badge.svg)
 
 ## Github status
-[![AquaPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquapi&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/aquapi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FSaigon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquapi&langs_count=10&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Support me 
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aquapi)
+![](https://activity-graph.herokuapp.com/graph?username=aquapi&theme=redical)
