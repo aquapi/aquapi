@@ -38,6 +38,4 @@ Language and tools I'm using:
 ## Github status
 My github stats:
 
-![Metrics](https://metrics.lecoq.io/aquapi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FSaigon)
-
 ![](https://activity-graph.herokuapp.com/graph?username=aquapi&theme=redical)
