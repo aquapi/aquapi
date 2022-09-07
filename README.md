@@ -38,6 +38,5 @@ Language and tools I'm using:
 ## Projects
 These are some of my projects:
 
-![DWC](https://github-readme-stats.vercel.app/api/pin?username=aquapi&repo=dwc&theme=nord&show_icons=true)
-![Random square](https://github-readme-stats.vercel.app/api/pin?username=rnd-sq&repo=client&theme=nord&show_icons=true)
+![FoldDB](https://github-readme-stats.vercel.app/api/pin?username=aquapi&repo=foldb&theme=nord&show_icons=true)
 ![PXE](https://github-readme-stats.vercel.app/api/pin?username=pxe-js&repo=server&theme=nord&show_icons=true)
