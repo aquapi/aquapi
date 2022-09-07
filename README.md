@@ -35,7 +35,7 @@ Language and tools I'm using:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PXE.js](https://pxe.vercel.app/badge.svg)
 
-## Github status
+## Github
 My github stats:
 
 ![](https://activity-graph.herokuapp.com/graph?username=aquapi&theme=redical)
