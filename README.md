@@ -35,7 +35,9 @@ Language and tools I'm using:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PXE.js](https://pxe.vercel.app/badge.svg)
 
-## Github
-My github stats:
+## Projects
+These are some of my projects:
 
-![](https://activity-graph.herokuapp.com/graph?username=aquapi&theme=redical)
+![DWC](https://github-readme-stats.vercel.app/api/pin?username=aquapi&repo=dwc&theme=nord&show_icons=true)
+![Random square](https://github-readme-stats.vercel.app/api/pin?username=rnd-sq&repo=client&theme=nord&show_icons=true)
+![PXE](https://github-readme-stats.vercel.app/api/pin?username=pxe-js&repo=server&theme=nord&show_icons=true)
