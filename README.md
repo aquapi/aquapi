@@ -1,7 +1,7 @@
 ## Hi there
 I'm a 15yo student. 
 - 📚 I'm learning Zig.
-- ⭐️ I like making websites and APIs
+- ⭐️ I like creating websites and libraries.
 - 💬 Chat with me on [Discord](discordapp.com/users/861500656682401822).
 
 ### Languages & Tools
