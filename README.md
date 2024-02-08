@@ -4,6 +4,8 @@ I'm a 15yo student.
 - ⭐️ I like creating websites and libraries.
 - 💬 Chat with me on [Discord](//discordapp.com/users/861500656682401822).
 
-### Languages & Tools
-![Languages and Tools](https://skillicons.dev/icons?i=html,css,java,js,ts,cpp,git,github,vscode,nodejs,docker,linux,nextjs,react,zig)
-
+## My stuff
+- [**Byte**](https://github.com/bit-js/byte): Fast, minimal web framework to create type safe APIs.
+- [**Vld**](https://github.com/bit-js/vld): A fast type validator and stringifier.
+- [**Wint**](https://github.com/aquapi/wint): A collection of high performance URL routers for JavaScript.
+- [**SQL Light**](https://github.com/aquapi/sql-light): Write type-safe SQL statements.
