@@ -7,6 +7,4 @@ I'm a 15yo student.
 ## My stuff
 Some libraries that I made.
 - [**Byte**](https://github.com/bit-js/byte): Fast, minimal web framework to create type safe APIs.
-- [**Vld**](https://github.com/bit-js/vld): A fast type validator and stringifier.
-- [**Wint**](https://github.com/aquapi/wint): A collection of high performance URL routers for JavaScript.
-- [**SQL Light**](https://github.com/aquapi/sql-light): Write type-safe SQL statements.
+- [**Blitz**](https://github.com/bit-js/blitz): The fastest JavaScript URL router.
