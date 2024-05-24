@@ -1,7 +1,7 @@
 ## Hi there
 I'm a 16yo student. 
 - 📚 I'm learning Zig.
-- ⭐️ I like creating web games and libraries.
+- ⭐️ I like creating games and fast libraries.
 - 💬 Chat with me on [Discord](//discordapp.com/users/861500656682401822).
 
 ## My stuff
