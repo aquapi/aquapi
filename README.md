@@ -8,4 +8,4 @@ I'm a 16yo student.
 Some libraries that I made.
 - [**Byte**](https://github.com/bit-js/byte): Fast, minimal web framework to create type safe APIs.
 - [**Blitz**](https://github.com/bit-js/blitz): The fastest JavaScript URL router.
-- [**Vld**](https://github.com/bit-js/vld): A fast standard complaint JSON schema compiler and interpreter.
+- [**Valify**](https://github.com/bit-js/valify): A fast standard complaint JSON schema compiler.
