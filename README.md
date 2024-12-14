@@ -6,6 +6,5 @@ I'm a 16yo student.
 
 ## My stuff
 Some libraries that I made.
-- [**Byte**](https://github.com/bit-js/byte): Fast, minimal web framework to create type safe APIs.
-- [**Blitz**](https://github.com/bit-js/blitz): The fastest JavaScript URL router.
-- [**Valify**](https://github.com/bit-js/valify): A fast standard complaint JSON schema compiler.
+- [**Mapl**](https://github.com/mapljs/app): A compiled web standard framework.
+- [**Stnl**](https://github.com/aquapi/stnl): A type definition format optimized for compilation.
