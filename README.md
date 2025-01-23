@@ -7,4 +7,4 @@ I'm a 16yo student.
 ## My stuff
 Some libraries that I made.
 - [**Mapl**](https://github.com/mapljs/app): A compiled web standard framework.
-- [**Stnl**](https://github.com/aquapi/stnl): A type definition format optimized for compilation.
+- [**Stnl**](https://github.com/re-utils/stnl): A type definition format optimized for compilation.
