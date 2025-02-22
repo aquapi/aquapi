@@ -6,6 +6,7 @@ I'm a 16yo student.
 
 ## My stuff
 Some libraries that I made.
-- [**Mapl**](https://github.com/mapljs/app): A compiled web standard framework.
-- [**Stnl**](https://github.com/re-utils/stnl): A type definition format optimized for compilation.
-- [**Zesti**](https://github.com/re-utils/zesti): A small and fast Edge framework
+- [**mapl**](https://github.com/mapljs/app): A compiled cross-runtime JS framework.
+- [**stnl**](https://github.com/re-utils/stnl): An elegant type definition format optimized for compilation.
+- [**zesti**](https://github.com/re-utils/zesti): A small and fast cross-runtime JS framework.
+- [**fast-crypt**](https://github.com/re-utils/fast-crypt): An efficient crypto library for all runtimes. 
