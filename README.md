@@ -6,5 +6,5 @@ I made JS libraries optimized for performance & bundle size.
 - [**udic**](https://github.com/re-utils/di): Small, simple dependency injection library.
 - [**ciorent**](https://github.com/re-utils/ciorent): Lightweight, low-overhead concurrency library.
 
-And some low-level stuff sometimes.
+And low-level things sometimes.
 - [**nuws**](https://github.com/aquapi/nuws): Low-overhead, opinionated uWebSockets bindings for Nelua.
