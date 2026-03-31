@@ -6,7 +6,7 @@ I made JS libraries optimized for performance & bundle size.
 - [**ciorent**](https://github.com/re-utils/ciorent): Lightweight, low-overhead concurrency library.
 
 With some benchmarks to verify their performance.
-- [**startup-size**](https://github.com/js-benchmark-all/startup-size): JS startup time, bundle size and gzipped size benchmark.
+- [**measure-loop**](https://github.com/js-benchmark-all/measure-loop): An accurate benchmarking loop.
 - [**micro**](https://github.com/js-benchmark-all/micro): Micro-benchmarks for all JS runtimes and engines.
 
 And low-level things sometimes.
